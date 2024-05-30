@@ -17,6 +17,17 @@
 |9. |TOSCANA (sos, ser mozzarella, karczochy, szynka, kukurydza)           |         |25 zł |30 zł |35 zł |
 |10.|TROPICANA (sos, ser mozzarella, kurczak, ananas, kukurydza)           |         |25 zł |30 zł |35 zł |
 
+## Pizze wegetariańskie
+
+<img src="pizzaa/Cheese Pizza Recipe_ How to Make Cheese Pizza Recipe at Home _ Homemade Cheese Pizza Recipe - Times Food.jpeg" width =300>
+
+|Lp.|Pizza WEGE:                                                                                          |rozmiar:|24 cm |30 cm |45 cm |
+|---|-----------------------------------------------------------------------------------------------------|--------|------|------|------|
+|1. |VEGETARIANA (sos pomidorowy, ser z napoju sojowego, brokuły, kukurydza, pieczarki)                   |        |23 zł |28 zł |33 zł |
+|2. |VEGE CHEESE (sos pomidorowy, ser z napoju sojowego, pieczarki, pomidory,oregano)                     |        |23 zł |28 zł |33 zł |
+|3. |VEGE MIĘSNA (sos pomidorowy, ser z napoju sojowego, vege boczek z soczewicy, oregano)                |        |22 zł |27 zł |32 zł |
+|4. |KURKOWA (sos pomidorowy, ser z napoju sojowego, vege boczek z soczewicy, kurki, cebula, papryka)     |        |25 zł |30 zł |35 zł |
+
 ## Pizze na bazie sosu śmietanowego
 
 <img src="pizzaa/The Most Cheesy French Onion Soup Pizza - rachLmansfield.jpeg" width =300>
@@ -38,6 +49,18 @@
 |2. |CURRY (kurczak, cukinia, brokuły, pomidory szuszone, czerwona cebula, sos curry)                            |       |28 zł |33 zł |
 |3. |MEKSYKAŃSKI (mięso mielone, czerwona fasola, papryka jalapeno, cebula, kukurydza, ser mozzarella, tabasco)  |       |30 zł |35 zł |
 |4. |SEROWY (kurczak, brokuły, pieczarki, czerwona cebula, ser mozzarella, sos serowy)                           |       |29 zł |34 zł |
+
+## Sałatki
+
+<img src="White Balsamic Vinaigrette — Living Lou.jpeg" width =300>
+
+|Lp.|Sałatki                                                                                        |porcja:|250 g |500 g |
+|---|-----------------------------------------------------------------------------------------------|-------|------|------|
+|1. |GRECKA (sałata lodowa, pomidory, ogórek, oliwki, czerwona cebula)                              |       |26 zł |32 zł |
+|2. |SEZAM (mix sałat, kukurydza, pomidory, ogórek, czerwona cebula, sos sezamowy)                  |       |28 zł |34 zł |
+|3. |MEKSYKAŃSKA (czerwona fasola, papryka jalapeno, cebula, kukurydza,tabasco, nachosy)            |       |29 zł |35 zł |
+|4. |OWOCOWA (pomarańcza, brzoskwinia, truskawki, borówki, jabłka, winogrona)                       |       |29 zł |35 zł |
+
 
 ## Sosy
 
