@@ -14,7 +14,7 @@
 |6. |KEBAB (sos, ser mozzarella, kurczak, kukurydza, cebula)               |         |25 zł |30 zł |35 zł |
 |7. |SEROWA (sos, 4 sery- mozzarella, pleśniowy, cambert, feta)            |         |25 zł |30 zł |35 zł |
 |8. |SPINACI (sos, ser mozzarella, ser pleśniowy, kurczak,szpinak)         |         |26 zł |31 zł |36 zł |
-|9. |VEGETARIANA (sos, ser mozzarella, pieczarki, kukurydza,brokuły)       |         |25 zł |30 zł |35 zł |
+|9. |TOSCANA (sos, ser mozzarella, karczochy, szynka, kukurydza)           |         |25 zł |30 zł |35 zł |
 |10.|TROPICANA (sos, ser mozzarella, kurczak, ananas, kukurydza)           |         |25 zł |30 zł |35 zł |
 
 ## Pizze na bazie sosu śmietanowego
