@@ -61,6 +61,18 @@
 |3. |MEKSYKAŃSKA (czerwona fasola, papryka jalapeno, cebula, kukurydza,tabasco, nachosy)            |       |29 zł |35 zł |
 |4. |OWOCOWA (pomarańcza, brzoskwinia, truskawki, borówki, jabłka, winogrona)                       |       |29 zł |35 zł |
 
+## Desery
+
+<img src="Classic Vanilla Panna Cotta.jpeg" width =300>
+
+|Lp.|Desery                                                                                 |porcja:|ok. 250 g |
+|---|---------------------------------------------------------------------------------------|-------|----------|
+|1. |TIRAMISU(klasyczny włoski deser z biszkoptami, kawą, mascarpone i kakao)               |       |   19 zł  |
+|2. |PANNA COTTA (delikatny włoski deser z kremu śmietankowego z wanilią i owocami)         |       |   19 zł  |
+|3. |CANOLLI (chrupiące rurki z kremem ricotty, cukrem i owocami)                           |       |   22 zł  |
+|4. |CIASTO DNIA                                                                            |       |   15 zł  |
+
+
 
 ## Sosy
 
