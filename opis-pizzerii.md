@@ -1,3 +1,3 @@
 # Pizzeria
 
-Opis
+Pizzeria Italia to urokliwe miejsce w sercu miasta, które przeniesie Cię prosto do Włoch. Nasza restauracja specjalizuje się w autentycznych włoskich pizzach, pieczonych w tradycyjnym piecu opalanym drewnem. Korzystamy wyłącznie z najwyższej jakości składników, w tym świeżych ziół i lokalnych warzyw. Oferujemy szeroki wybór pizz, zarówno na bazie sosu pomidorowego, jak i śmietankowego, a także różnorodne opcje dla wegetarian. W menu znajdziesz również zapiekane naleśniki oraz świeże sałatki. Nasza przyjazna obsługa i ciepła atmosfera sprawią, że każda wizyta będzie niezapomniana. Zapraszamy do Italia na prawdziwą włoską ucztę!
