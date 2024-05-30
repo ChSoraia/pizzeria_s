@@ -6,5 +6,4 @@
 2. FUNGHI (sos pomidorowy, ser mozzarella, pieczarki) 22 zł
 3. SALAMI (sos pomidorowy, ser mozzarella, salami) 22 zł 
 4. PROSCIUTTO (sos pomidorowy, ser mozzarella, szynka) 22 zł
-5. CAPRICCIOSA (sos pomidorowy, ser mozzarela, szynka, pieczarki) 24 zł
-6. VEGETARIANA (sos pomidorowy, ser mozzarella, pieczarki, oliwki, papryka, kukurydza, cebula, brokuły) 24 zł
+5. VEGETARIANA (sos pomidorowy, ser mozzarella, pieczarki, oliwki, papryka, kukurydza, cebula, brokuły) 24 zł
