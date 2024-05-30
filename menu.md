@@ -21,12 +21,49 @@
 
 <img src="pizzaa/The Most Cheesy French Onion Soup Pizza - rachLmansfield.jpeg" width =300>
 
-|Lp.|Pizza:                                                                               |rozmiar: |24 cm |30 cm |45 cm |
-|---|-------------------------------------------------------------------------------------|---------|------|------|------|     
-|1. |BIANCA (sos śmietanowy, ser mozzarella, szynka, cebula,boczek)                       |         |26 zł |31 zł |36 zł |
-|2. |CARBONARA (sos śmietanowy, ser mozzarella, boczek, pieczarki, cebula)                |         |27 zł |32 zł |37 zł |
-|3. |PARMA (sos śmietanowy, ser mozzarella, szynka parmeńska, szparagi, pieczarki, jajko) |         |29 zł |34 zł |39 zł |
-|4. |VERDE (sos śmietanowy, ser mozzarella, ser cambert, boczek, świeży szpinak)          |         |28 zł |33 zł |38 zł |
+|Lp.|Pizza:                                                                               |rozmiar:|24 cm |30 cm |45 cm |
+|---|-------------------------------------------------------------------------------------|--------|------|------|------|     
+|1. |BIANCA (sos śmietanowy, ser mozzarella, szynka, cebula,boczek)                       |        |26 zł |31 zł |36 zł |
+|2. |CARBONARA (sos śmietanowy, ser mozzarella, boczek, pieczarki, cebula)                |        |27 zł |32 zł |37 zł |
+|3. |PARMA (sos śmietanowy, ser mozzarella, szynka parmeńska, szparagi, pieczarki, jajko) |        |29 zł |34 zł |39 zł |
+|4. |VERDE (sos śmietanowy, ser mozzarella, ser cambert, boczek, świeży szpinak)          |        |28 zł |33 zł |38 zł |
+
+## Naleśniki zapiekane
+
+<img src="naleśniki,sosy,napoje/84c877d5-3da2-49ef-b63d-b17c8492f251.jpeg" width =300>
+
+|Lp.|Naleśniki zapiekane:                                                                                        |porcja:|300 g |500 g |
+|---|------------------------------------------------------------------------------------------------------------|-------|------|------|
+|1. |SZPINAKOWY (szpinak, kurczak, podgrzybki, ser mozzarella, sos śmietanowy)                                   |       |29 zł |34 zł |
+|2. |CURRY (kurczak, cukinia, brokuły, pomidory szuszone, czerwona cebula, sos curry)                            |       |28 zł |33 zł |
+|3. |MEKSYKAŃSKI (mięso mielone, czerwona fasola, papryka jalapeno, cebula, kukurydza, ser mozzarella, tabasco)  |       |30 zł |35 zł |
+|4. |SEROWY (kurczak, brokuły, pieczarki, czerwona cebula, ser mozzarella, sos serowy)                           |       |29 zł |34 zł |
+
+## Sosy
+
+<img src="naleśniki,sosy,napoje/_ (10).jpeg" width =300>
+
+Lp. Sosy:         
+1. Pomidorowy - 5 zł         
+2. Czosnkowy - 5 zł             
+3. Musztarda - 5 zł             
+4. Sriracha- Mayo - 6 zł      
+5. Serowy - 6 zł
+
+## Napoje
+
+<img src="naleśniki,sosy,napoje/3d model Refrigerator Coca-cola.jpeg" width =300>
+
+|Lp.| Napoje:          |pojemność: |330 ml|500 ml |
+|---|------------------|-----------|------|-------|
+|1. |Woda              |           |6 zł  |8 zł   |   
+|2. |Woda gazowana     |           |6 zł  |8 zł   | 
+|3. |Coca-Cola         |           |8 zł  |10 zł  |
+|4. |Fanta             |           |8 zł  |10 zł  |
+|5. |Sprite            |           |8 zł  |10 zł  |
+|6. |Ice-Tea           |           |8 zł  |10 zł  |
+|7. |Sok pomarańczowy  |           |7 zł  |9 zł   |
+|8. |Sok jabłkowy      |           |7 zł | 9 zł   |
 
 
 
